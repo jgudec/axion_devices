@@ -2,6 +2,15 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar
 
+Date - 20/05/2025
+=================
+-Fixed Goodix_fp 
+-Added DOLBY VISION support
+-Import LDAC & LHDC Bluetooth audio codecs 
+-Switched back to Qti_perf
+-Nuked powerhint
+-Firmware not included
+
 Date - 08/05/2025
 =================
 -Switched to libperfmgr
