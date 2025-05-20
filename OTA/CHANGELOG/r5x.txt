@@ -1,0 +1,10 @@
+AxionOS v1.4
+Build Date : 16/05/2025
+
+- Decrease swappiness to 60
+- Add context_hub into audio hal group
+- Add "system" group to Audio HAL
+- audio: switch to open source sound trigger hal
+- Enable WPA2 to WPA3 auto-upgrade
+- Switch to AIDL USB HAL
+- Fixed Random reboot bug
