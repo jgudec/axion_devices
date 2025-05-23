@@ -1,4 +1,17 @@
 AxionOS v1.4 Nightly
+Build Date : 23/05/2025
+- Add media codec swap width and height feature
+- Adjust QOS interface
+- Disable blur effect
+- Don't pin deprecated RenderScript libs
+- Enable 1080p 60fps for front and back camera
+- Move SystemUI overlay to product partition
+- Pin graphics libs
+- Pin IRQs to specific CPUs
+- Rebase device tree to latest LineageOS
+- Set config_use16BitTaskSnapshotPixelFormat to true
+
+AxionOS v1.4 Nightly
 Build Date : 11/05/2025
 - Remove BCR
 - Set cores for cpusets background and foreground
@@ -7,57 +20,57 @@ Build Date : 11/05/2025
 
 AxionOS v1.3 Nightly
 Build Date : 27/05/2025
-- Remove unused blobs
-- Setup ELF checks and regen vendor after enabling ELF checks
+- Add libwfdservice_shim for WFD
+- Build libqti_vndfwk_detect.vendor:32
+- Don't declare BOARD_VENDOR
 - Do not manually build dependencies
 - Libraries are now automatically added to PRODUCT_PACKAGES
 - Patch libwfdservice to resolve duplicate dependencies
-- Build libqti_vndfwk_detect.vendor:32
-- Add libwfdservice_shim for WFD
 - parts: Move thermal profiles to system category
-- Don't declare BOARD_VENDOR
+- Remove unused blobs
+- Setup ELF checks and regen vendor after enabling ELF checks
 
 AxionOS v1.2 Beta
 Build Date : 09/04/2025
-- New kernel source
 - Add support for bypass charging feature
+- audio: Remove direct flag for VOIP RX
+- audio: Use AOSP USB v2 audio HAL
+- Downgrade WFD system stack
+- Move to Xiaomi fingerprint AIDL
+- New kernel source
+- parts: Remove unused thermal profiles
 - power: Abstract android.hardware.power-ndk dependency
 - sepolicy: Remove obsolete NXP NFC and eSE rules
 - sepolicy: Rewrite access to BT and WiFi MAC address files
-- audio: Use AOSP USB v2 audio HAL
-- audio: Remove direct flag for VOIP RX
-- Move to Xiaomi fingerprint AIDL
-- parts: Remove unused thermal profiles
-- Downgrade WFD system stack
 
 AxionOS v1.2 Beta
 Build Date : 24/03/2025
-- Move no cutout overlay packages to device tree
-- rro_overlays: Adjust status bar padding
-- Remove Mi Sound Enhancer
 - Added Dolby
-- sepolicy: Address PowerHAL denials
-- sepolicy: Address init denials
-- sepolicy: Address CameraHAL denials
 - Add missing FCM
+- Move no cutout overlay packages to device tree
+- Remove Mi Sound Enhancer
+- rro_overlays: Adjust status bar padding
 - scripts/setlocalversion: Don't append -dirty in localversion
+- sepolicy: Address CameraHAL denials
+- sepolicy: Address init denials
+- sepolicy: Address PowerHAL denials
 
 AxionOS v1.2
 Build Date : 18/03/2025
-- Add aperture
-- Remove AudioFX app
-- Change default hotspot ssid
+- Add Aperture
+- Adjust status bar padding
+- arm64: configs: Enable Block IO Controller
+- BACKPORT: disp: msm: dsi: add null pointer check in dsi_display_dev_remove
 - Change a default Settings.Global.DEVICE_NAME
 - Change default bluetooth name
+- Change default hotspot ssid
 - Change default usb string
-- Switch SystemUI overlay to RRO overlays
-- Adjust status bar padding
-- tetheroffload: Version 1.1
-- parts: Implement headset scenario
-- parts: Add dirac icons
-- parts: Remove clear speaker summary from manifest
 - libperfmgr-ext: Bump to android.hardware.power-V6-ndk
-- UPSTREAM: HID: core: zero-initialize the report buffer
-- BACKPORT: disp: msm: dsi: add null pointer check in dsi_display_dev_remove
+- parts: Add dirac icons
+- parts: Implement headset scenario
+- parts: Remove clear speaker summary from manifest
 - qcacld-5.0: Fix the possible OOB write in country IE unpack
-- arm64: configs: Enable Block IO Controller
+- Remove AudioFX app
+- Switch SystemUI overlay to RRO overlays
+- tetheroffload: Version 1.1
+- UPSTREAM: HID: core: zero-initialize the report buffer
