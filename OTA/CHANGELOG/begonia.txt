@@ -1,3 +1,14 @@
+AxionOS v1.4
+Build Date : 25/05/2025
+- Built Common FMRadio
+- Move to OSS Libfmjni
+- Improved DT2W services using Xiaomi-touch
+- Dropped unused 64-bit Audio blobs
+- Dropped unused 32-bit Bluetooth blobs
+- Dropped unused 32-bit Camera blobs
+- Move to Lineage light hal
+- Included Latest PoWeR Kernel
+
 AxionOS v1.3
 Build Date : 18/04/2025
 - Included Los apps
