@@ -1,0 +1,9 @@
+AxionOS v1.4
+Build Date : 28/05/2025
+- Initial official release
+- Include Micam and ViperFX
+- Use fw global latest
+
+Credit :
+Thanks to @grewal for all resource
+Thanks to LumineDroid team
