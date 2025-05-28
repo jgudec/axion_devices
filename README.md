@@ -35,6 +35,7 @@
 | **Redmi Mi8937_4_19 Series**    | `Mi8937_4_19`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro**      | `sweet`      |
+| **Redmi Note 13 Pro 5G / POCO X6 5G**  | `garnet`     |
 | **Redmi K60 Pro**          | `socrates`   |
 | **TECNO POVA 4 Pro**       | `LG8n`       |
 | **TECNO POVA 4**           | `LG7n`       |
@@ -61,3 +62,4 @@
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 and POVA 4 Pro)
 - **[rmux](https://github.com/rmuxnet)** (Xiaomi Pad 6)
 - **[Steven (superxorn)](https://github.com/superxorn)** (Mi 9T)
+- **[Byben](https://github.com/ramaadni)** (Redmi Note 13 Pro 5G / POCO X6 5G)
