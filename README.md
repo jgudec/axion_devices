@@ -16,6 +16,7 @@
 | **Google Pixel 9 Pro XL**  | `komodo`     |
 | **Galaxy A71 4G**          | `a71`        |
 | **Mi 9T**                  | `davinci`    |
+| **Mi 11X Pro/Mi 11i/Redmi K40 Pro+**  | `haydn`     |
 | **Motorola G54**           | `cancunf`    |
 | **Oneplus 8**              | `instantnoodle`|
 | **Oneplus 8 Pro**          | `instantnoodlep`|
@@ -63,3 +64,4 @@
 - **[rmux](https://github.com/rmuxnet)** (Xiaomi Pad 6)
 - **[Steven (superxorn)](https://github.com/superxorn)** (Mi 9T)
 - **[Byben](https://github.com/ramaadni)** (Redmi Note 13 Pro 5G / POCO X6 5G)
+- **[Hexdare](https://github.com/Hexdare)** (Mi 11X Pro/Mi 11i/Redmi K40 Pro+)
