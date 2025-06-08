@@ -1,3 +1,10 @@
+AxionOS v1.5
+Build Date 08/06/2025
+- Moto Dolby interface
+- sony dolby1.3
+- removed deprecated config_mobile_tcp_buffers
+- Switch to common AIDL IR service
+
 AxionOS v1.4
 Build Date : 17/05/2025
 - Dolby Low sound issue fixed
