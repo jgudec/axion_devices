@@ -44,7 +44,7 @@
 | **Xiaomi Pad 6**           | `pipa`       |
 
 ## 👤 Maintainers  
-- **[rmp22](https://github.com/rmp22)** (Pixel 6-9 series - Open for Co-Maintainership)
+- **[rmp22](https://github.com/rmp22)** (Pixel 6-7 series - Open for Co-Maintainership (Pixel 6 series))
 - **[rmux](https://github.com/rmuxnet)** (Galaxy A71 4G)
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series and Pixel 9 series)
