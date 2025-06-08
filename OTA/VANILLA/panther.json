@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1746607978,
-            "filename": "axion-1.4-NIGHTLY-20250507-OFFICIAL-VANILLA-panther.zip",
-            "id": "aac5c319fa7cd71fdadb5099aba9ca50",
+            "datetime": 1749363431,
+            "filename": "axion-1.5-NIGHTLY-20250608-OFFICIAL-VANILLA-panther.zip",
+            "id": "f1f87113b22cf4642009959dd91d9696",
             "romtype": "OFFICIAL",
-            "size": 1597951993,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.4/axion-1.4-NIGHTLY-20250507-OFFICIAL-VANILLA-panther.zip",
-            "version": "1.4"
+            "size": 1593069920,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5/axion-1.5-NIGHTLY-20250608-OFFICIAL-VANILLA-panther.zip",
+            "version": "1.5"
         }
     ]
 }
