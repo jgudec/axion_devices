@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1746675919,
-            "filename": "axion-1.4-NIGHTLY-20250507-OFFICIAL-VANILLA-raven.zip",
-            "id": "6b81a41dfca3457acd9aa3afdecaa837",
+            "datetime": 1749384013,
+            "filename": "axion-1.5-NIGHTLY-20250608-OFFICIAL-VANILLA-raven.zip",
+            "id": "ab4ebf244b2d614c23377c0765d6486f",
             "romtype": "OFFICIAL",
-            "size": 1433781764,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.4/axion-1.4-NIGHTLY-20250507-OFFICIAL-VANILLA-raven.zip",
-            "version": "1.4"
+            "size": 1436735806,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5/axion-1.5-NIGHTLY-20250608-OFFICIAL-VANILLA-raven.zip",
+            "version": "1.5"
         }
     ]
 }
