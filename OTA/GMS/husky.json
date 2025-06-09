@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1747305597,
-            "filename": "axion-1.4-NIGHTLY-20250515-OFFICIAL-GMS-husky.zip",
-            "id": "dd81e678dea9d3df81627a2410945267",
+            "datetime": 1749431637,
+            "filename": "axion-1.5-NIGHTLY-20250609-OFFICIAL-GMS-husky.zip",
+            "id": "eddb58e748e50f470a41d44ceb7b686b",
             "romtype": "OFFICIAL",
-            "size": 1887363841,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.4/axion-1.4-NIGHTLY-20250515-OFFICIAL-GMS-husky.zip",
-            "version": "1.4"
+            "size": 1908508001,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/husky/1.x/gapps/axion-1.5-NIGHTLY-20250609-OFFICIAL-GMS-husky.zip/download",
+            "version": "1.5"
         }
     ]
 }
