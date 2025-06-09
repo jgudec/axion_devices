@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1747307384,
-            "filename": "axion-1.4-NIGHTLY-20250515-OFFICIAL-VANILLA-shiba.zip",
-            "id": "a6dbe0d22d325b1debe80b4d730ee678",
+            "datetime": 1749436469,
+            "filename": "axion-1.5-NIGHTLY-20250609-OFFICIAL-VANILLA-shiba.zip",
+            "id": "a0178c1c0644548be194c819a749e1ed",
             "romtype": "OFFICIAL",
-            "size": 1495020349,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.4/axion-1.4-NIGHTLY-20250515-OFFICIAL-VANILLA-shiba.zip",
-            "version": "1.4"
+            "size": 1502478509,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/shiba/1.x/vanilla/axion-1.5-NIGHTLY-20250609-OFFICIAL-VANILLA-shiba.zip/download",
+            "version": "1.5"
         }
     ]
 }
