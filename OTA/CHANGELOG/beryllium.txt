@@ -1,3 +1,9 @@
+AxionOS v1.5 Nightly
+Build Date : 13/06/2025
+- Include LineageOS prebuilts for non-GMS builds
+- sepolicy: Allow PowerHAL to read and write proc files
+- sepolicy: Allow init to read and write sysfs_battery_supply
+
 AxionOS v1.4 Nightly
 Build Date : 23/05/2025
 - Add media codec swap width and height feature
