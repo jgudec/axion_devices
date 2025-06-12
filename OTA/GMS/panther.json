@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1749365277,
-            "filename": "axion-1.5-NIGHTLY-20250608-OFFICIAL-GMS-panther.zip",
-            "id": "7025fee74a66877fb73358c0cd30c175",
+            "datetime": 1749728918,
+            "filename": "axion-1.5-NIGHTLY-20250612-OFFICIAL-GMS-panther.zip",
+            "id": "52eebb0348c3db8850787fa5734e2166",
             "romtype": "OFFICIAL",
-            "size": 1978389592,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5/axion-1.5-NIGHTLY-20250608-OFFICIAL-GMS-panther.zip",
+            "size": 1978410229,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5-Q2/axion-1.5-NIGHTLY-20250612-OFFICIAL-GMS-panther.zip",
             "version": "1.5"
         }
     ]

@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1749347008,
-            "filename": "axion-1.5-NIGHTLY-20250608-OFFICIAL-VANILLA-cheetah.zip",
-            "id": "d86b06b3eab577d30a7717932604739b",
+            "datetime": 1749725433,
+            "filename": "axion-1.5-NIGHTLY-20250612-OFFICIAL-VANILLA-cheetah.zip",
+            "id": "a04f3fecc978bdddc9b1d7dbe530aa0e",
             "romtype": "OFFICIAL",
-            "size": 1593724165,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5/axion-1.5-NIGHTLY-20250608-OFFICIAL-VANILLA-cheetah.zip",
+            "size": 1593732249,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5-Q2/axion-1.5-NIGHTLY-20250612-OFFICIAL-VANILLA-cheetah.zip",
             "version": "1.5"
         }
     ]
