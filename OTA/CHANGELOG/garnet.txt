@@ -1,3 +1,19 @@
+AxionOS v1.5
+Build Date : 12/06/2025
+- Update blobs from OS2.0.10.0.VNRMIXM
+- Drop TARGET_RECOVERY_DEVICE_MODULES
+- Bringback to QTI health aidl service
+- Enable compress voip audio feature
+- switch to common AIDL IR service
+- Add support bypass charging
+- Define node fastcharging oem
+
+*Notes:
+- Use global latest fw
+- Include Micam and ViperFX
+
+=================================
+
 AxionOS v1.4
 Build Date : 28/05/2025
 - Initial official release
