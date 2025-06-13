@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1749387323,
-            "filename": "axion-1.5-NIGHTLY-20250608-OFFICIAL-VANILLA-oriole.zip",
-            "id": "68e940c00aaf5b901f9b6c97676d324b",
+            "datetime": 1749734559,
+            "filename": "axion-1.5-NIGHTLY-20250612-OFFICIAL-VANILLA-oriole.zip",
+            "id": "256ef31f172e9de2f380e9f32954b38b",
             "romtype": "OFFICIAL",
-            "size": 1436407174,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5/axion-1.5-NIGHTLY-20250608-OFFICIAL-VANILLA-oriole.zip",
+            "size": 1436359275,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5-Q2/axion-1.5-NIGHTLY-20250612-OFFICIAL-VANILLA-oriole.zip",
             "version": "1.5"
         }
     ]

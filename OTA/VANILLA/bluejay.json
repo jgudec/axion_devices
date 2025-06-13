@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1749391493,
-            "filename": "axion-1.5-NIGHTLY-20250608-OFFICIAL-VANILLA-bluejay.zip",
-            "id": "2ea3cbfd325ef835118cd44a5399f093",
+            "datetime": 1749737926,
+            "filename": "axion-1.5-NIGHTLY-20250612-OFFICIAL-VANILLA-bluejay.zip",
+            "id": "1c36de20089c091ff42ce8fc801e4420",
             "romtype": "OFFICIAL",
-            "size": 1436116582,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5/axion-1.5-NIGHTLY-20250608-OFFICIAL-VANILLA-bluejay.zip",
+            "size": 1436077106,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5-Q2/axion-1.5-NIGHTLY-20250612-OFFICIAL-VANILLA-bluejay.zip",
             "version": "1.5"
         }
     ]

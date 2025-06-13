@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1749393610,
-            "filename": "axion-1.5-NIGHTLY-20250608-OFFICIAL-GMS-bluejay.zip",
-            "id": "2d59be3f245053bf93f481b18468a1f3",
+            "datetime": 1749747277,
+            "filename": "axion-1.5-NIGHTLY-20250612-OFFICIAL-GMS-bluejay.zip",
+            "id": "3c69996e5e3be67dd0d257fae9c4af60",
             "romtype": "OFFICIAL",
-            "size": 1821470058,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5/axion-1.5-NIGHTLY-20250608-OFFICIAL-GMS-bluejay.zip",
+            "size": 1821411530,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.5-Q2/axion-1.5-NIGHTLY-20250612-OFFICIAL-GMS-bluejay.zip",
             "version": "1.5"
         }
     ]
