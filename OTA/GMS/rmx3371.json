@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1748757286,
-            "filename": "axion-1.4-NIGHTLY-20250601-OFFICIAL-GMS-rmx3371.zip",
-            "id": "1bd3958c00bce880e697daf576ed99d2",
+            "datetime": 1749773056,
+            "filename": "axion-1.5-NIGHTLY-20250612-OFFICIAL-GMS-rmx3371.zip",
+            "id": "415ab259f8dd32109ebb12c42c0e8c50",
             "romtype": "OFFICIAL",
-            "size": 2282973804,
-            "url": "https://sourceforge.net/projects/axionxspartan/files/axion-1.4-NIGHTLY-20250601-OFFICIAL-GMS-rmx3371.zip/download",
-            "version": "1.4"
+            "size": 2283255438,
+            "url": "https://sourceforge.net/projects/axionxspartan/files/axion-1.5-NIGHTLY-20250612-OFFICIAL-GMS-rmx3371.zip/download",
+            "version": "1.5"
         }
     ]
 }
