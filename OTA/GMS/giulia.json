@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1750367706,
-            "filename": "axion-1.6-NIGHTLY-20250619-COMMUNITY-GMS-giulia.zip",
-            "id": "b8354b3e21acbcef4ad73a8fb73d1e0f",
+            "datetime": 1750409531,
+            "filename": "axion-1.6-FINAL-20250620-COMMUNITY-GMS-giulia.zip",
+            "id": "436df4a7322ad09d7444671156f73753",
             "romtype": "COMMUNITY",
-            "size": 2920704771,
-            "url": "https://sourceforge.net/projects/axion-os-giulia-builds/files/OTA/axion-1.6-NIGHTLY-20250619-COMMUNITY-GMS-giulia.zip/download",
+            "size": 2920701965,
+            "url": "https://sourceforge.net/projects/axion-os-giulia-builds/files/OTA/axion-1.6-NIGHTLY-20250620-COMMUNITY-GMS-giulia.zip",
             "version": "1.6"
         }
     ]

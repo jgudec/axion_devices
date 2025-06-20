@@ -1,5 +1,5 @@
-AxionOS v1.6
-Build Date : 19/06/2025
-- Latest AxionOS changes
+Date - 20/06/2025
+=================
+- Updated status bar height
 
 
