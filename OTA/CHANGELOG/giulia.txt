@@ -1,3 +1,7 @@
+Date - 25/06/2025
+=================
+- Update to CPU input boost
+
 Date - 22/06/2025
 =================
 - Integrated Viper4FX
